@@ -40,6 +40,3 @@ function anagrama(palavra){
 }
 
 anagrama("ovo")
-// ovo
-// oov
-// voo
