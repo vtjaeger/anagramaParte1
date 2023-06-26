@@ -39,4 +39,4 @@ function anagrama(palavra){
 
 }
 
-anagrama("ovo")
+anagrama(palavra)
